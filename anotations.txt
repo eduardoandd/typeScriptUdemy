@@ -1,0 +1,44 @@
+Mapa mental:
+    Fundamentos
+        Fundamentos
+        funcionalidades
+    
+    Avançando em Tipos
+        Tipos de dados complexos
+        como trabalhar de uma forma mais realista e prática
+
+    Narrowing(verificação)
+        Recurso especifico do Ts
+
+    Funções com TypeScript
+        Argumentos
+
+    Object Types:
+        Object literals
+        entender todos os tipos de dados q são considerados objetos
+    
+    criação de tipos
+        Criação de tipos de dados, baseados no existenentes
+    
+    Classes(P.O.O)
+
+    9- Modulo com Ts
+        Oq podemos fazer com importação e exportação
+    
+    10 - Decorators
+        Funções na criação de Classes,instância de objetos
+    
+    11- React com TS
+        Integração de react com TypeScript
+        
+    12 - Projeto de React com TS
+
+    13- Express com TS
+        backend com Ts
+    
+    14- Api RestFul com TS
+        
+
+    
+
+        
