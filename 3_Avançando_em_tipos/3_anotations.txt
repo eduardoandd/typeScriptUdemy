@@ -1,0 +1,39 @@
+31. Arrays:
+    Conseguimos criar uma lista que geralmente são de tipos fixos e
+    sinalizamos para o typescript com dessa foma: []
+
+32. Outra sintaxe Arrays
+    Podemos criar uma lista de uma outra forma utilizando a interface de
+    array e <>
+
+33. Tipo Any
+    Não devemos utilizar, qualquer tipo de dados satisfaz, indo contra
+    os principios do typescript
+
+34. Tipos de parâmetros
+    Podemos definir o tipo de parâmetro que uma função vai receber
+
+35. Tipos de retorno
+    Podemos definir o tipo de retorno, colocando ":number", ai deixamos
+    explicito que retornaremos um tipo numerico.
+
+36. Funções anónimas
+    Funções sem nome
+
+37. Tipos de objetos
+   Objetos e javaScript é determinado por fechamento de chaves,
+   podemos passar diferentes propriedades com diferentes números
+
+
+38. propriedades opcionais
+    As vezes temos uma propriedade de um objeto que nem sempre é necessária.
+    por conta disso colocamos ?
+    
+39. Validação de parâmetros opcionais
+
+
+
+
+
+
+
