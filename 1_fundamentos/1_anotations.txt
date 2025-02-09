@@ -1,0 +1,14 @@
+26. Type Anottation e Inference
+    Nesse eu vi a diferença entre o tipo Anottation e o tipo inference.
+
+    * Annotation: colocamos o tipo da variavel manualmente
+    * Inference: deixamos para o TypeScript definir o tipo da variável automatimente.
+
+
+27. Gerando arquivo de configuração
+    Nesse aula geramos o arquivo atraves do comando tsc --init,
+    nele podemos mudar varios coisas em relação ao que o TS executa e também feito o compile
+
+28. Compilação automática
+    tsc -w
+
