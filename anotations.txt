@@ -8,7 +8,8 @@ Mapa mental:
         como trabalhar de uma forma mais realista e prática
 
     Narrowing(verificação)
-        Recurso especifico do Ts
+        Recurso especifico do Ts,
+        verifica qual tipo de dado é para podermos tomar decisões no código
 
     Funções com TypeScript
         Argumentos

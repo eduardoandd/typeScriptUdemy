@@ -1,6 +1,6 @@
 31. Arrays:
     Conseguimos criar uma lista que geralmente são de tipos fixos e
-    sinalizamos para o typescript com dessa foma: []
+    sinalizamos para o typescript assim: []
 
 32. Outra sintaxe Arrays
     Podemos criar uma lista de uma outra forma utilizando a interface de
@@ -30,7 +30,35 @@
     por conta disso colocamos ?
     
 39. Validação de parâmetros opcionais
+    quando a propriedade é opcinal podemos gerar erros, porque o compilador nao ajuda mais
 
+40. Union types
+    Podemos determinar 2 ou mais tipos de dados diferentes para a mesma variavel usando o |
+
+41. avançando com Union types
+    aplicando  condicionais para validação de tipos utilizando o typeof
+
+42. Type alias
+    permiter criar um tipo para uma variável e definir o tipo.
+
+43. Introdução as interfaces
+    Outra maneira de criar objetos.
+
+44. Type Alias x Interface
+    A única diferença é q interface pode ser modificada ao longo do codigo
+    alias não
+
+45. Literal types
+    restringe os valores q a variável pode ter.
+
+46. Non-null assertion Operator
+    ! indicamos q o valor não vai ser nulo
+
+47. BigInt
+    Como esse recurso podemos declarar valores muitos alto
+
+48. Symbol
+    Por mais q os valores sejam iguais, vai sempre retornar false
 
 
 
