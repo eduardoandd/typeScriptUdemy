@@ -1,0 +1,40 @@
+Funções de uma maneira mais aprofundada.
+
+60. Funções sem retorno
+    Utilizamos o tipo void
+
+61. Callback como argumento
+    callback: quando uma função é passada como argumento de outra função
+
+62. Genereic functions
+    simbolos de <> quer dizer q é generic
+
+63. constraints nas generics Functions
+    limitamos oq pode ser utilizado no generics
+
+64. Especificar tipo de argumento
+    isso me ajuda a definir listas de diferentes tipo a ser passada como argumento
+
+65. Parâmetros opcionais
+    ??
+
+66. Parâmetro default
+    parametros que ja possuem valor definido
+
+67. Type unknow
+    semelhante o any, a diferença q nada pode ser executado
+    se não tiver avaliação de tipo
+
+68. O tipo never
+    utilizado quandoa  função n retorna nada
+
+69. Rest operator com TS
+    Reuni todos os parametros dentro de uma lista utilizando ...
+
+70. Destructuring com TS
+
+    
+
+
+
+
