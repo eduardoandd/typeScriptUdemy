@@ -1,0 +1,23 @@
+53.O que é narrwoing:
+    forma que temos de validar,verificar tipo no typescript, deixando o código 
+    mais profissional.
+
+    exemplo prático: quando consumimos uma api de diferentes tipos de dados.
+
+54. typeof Type guard
+    validação de tipo utilizando typeOf
+
+
+55. Checando se o valor existe
+    verifica se o valor existe para tomar uma decisão. Podemos colocar
+    uma var e um if, se tiver algum valor recebe um true
+
+56. Operador instanceof
+    para além de tipos primitivos, checando se o dado pertence a uma determinada classe
+    vai ser até para as nossas próprias classes
+
+57. operador in
+    usado para verificar se existe uma propriedade no objeto
+
+
+
