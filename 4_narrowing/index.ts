@@ -101,3 +101,18 @@ showDogDetails(bob)
 
 
 
+// desafio 3
+
+type REVIEW =  1 | 2 | 3 | 4 | 5  | boolean
+
+function reviewChange(review?:REVIEW){
+    if(typeof review === 'number' && review){
+        console.log(`A nota alcançada foi ${review}`);
+    }
+    else{
+        review = false
+        console.log(review);
+    }
+}
+
+reviewChange()

@@ -76,3 +76,13 @@ function showDogDetails(dog) {
 }
 showDogDetails(zeca);
 showDogDetails(bob);
+function reviewChange(review) {
+    if (typeof review === 'number' && review) {
+        console.log(`A nota alcançada foi ${review}`);
+    }
+    else {
+        review = false;
+        console.log(review);
+    }
+}
+reviewChange();
