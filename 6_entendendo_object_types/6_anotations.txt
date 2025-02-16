@@ -1,0 +1,42 @@
+Object types:
+    Trabalhar melhor com todos os tipos de dados considerado objetos
+    (arrays, objetos em si)
+
+73. O que são object types
+
+    Trabalha melhor com todos os tipos de dados considerado objetos
+    arrays, object literals, interfaces, readonly,tupla.
+
+
+74. Interface com Parâmetro
+    Podemos simplicar tipagem de parametros com interface.
+    
+
+75. Interface com parâmetro opcional
+    adicionando interrogação
+
+76. Propriedade readonly
+    Pode ser alterado uma vez na criação d eum novo dado.
+
+77. Index signature
+    Quando não sabemos o nome da chave, mas sabemos o tipo do objeto.
+    Ajudandoa  restringir os tipos não necessários.
+
+78. Extending Types:
+    Herança
+
+79. Intersection Types
+    Herança de interface
+
+80. readOnlyArray
+    aplicando readOnly no array
+
+81. Tuplas
+    pré definimos o tipo
+
+82. Tuplas com readOnly
+    igual do python
+
+
+
+
